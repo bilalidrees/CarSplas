@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "740808221207",
+    "firebase_url": "https://carsplash-793a2.firebaseio.com",
+    "project_id": "carsplash-793a2",
+    "storage_bucket": "carsplash-793a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740808221207:android:4702026d7d8063f6e2b252",
+        "android_client_info": {
+          "package_name": "com.example.carwash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740808221207-p9sa5nk7oocs01nbnhqkatf8sqd4n9i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB64OuMU5PZkcQJ2eXZl9e4H_bhFKknj60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740808221207-p9sa5nk7oocs01nbnhqkatf8sqd4n9i0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
